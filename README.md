@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Sanjay 👋
 
-<!--
-**Sanjaynath-git/Sanjaynath-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **DevOps Engineer** who loves automating the boring stuff – from infra to pipelines to temporal workflows.
 
-Here are some ideas to get you started:
+- 🔭 Currently building a **CI/CD pipeline** with Jenkins + Kubernetes
+- 🌱 Learning **Temporal**, **Temporal**, and advanced **Terraform**
+- ☁️ **Multi-cloud**: AWS | Azure | GCP
+- 🧰 **Infra as Code**: Terraform | Ansible
+- ⚙️ **CI/CD**: Jenkins | GitHub Actions | GitLab CI
+- 🐳 **Containers & Orchestration**: Docker | Kubernetes (K8s) | Temporal
+- 📜 **Scripting**: Shell Script (Bash) | Python
+- 🌐 **Web Development**: HTML/CSS, JavaScript, React (for internal dashboards & tools)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjaynath-git&show_icons=true&theme=dark)
